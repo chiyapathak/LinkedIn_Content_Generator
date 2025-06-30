@@ -1,2 +1,2 @@
 # LinkedIn_Content_Generator
-Web Application for generating content for LinkedIn Posts
+A Web Application that enables users to generate high-quality, personalized LinkedIn posts based on their desired tone, topic, and language.
